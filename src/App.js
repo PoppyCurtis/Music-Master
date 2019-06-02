@@ -5,7 +5,8 @@ class App extends Component {
     render() {
         return (
             <div>
-              React App
+              <h2>Music Master</h2>
+              <input placeholder='Search for an Artist'/>
             </div>
         )
     }
